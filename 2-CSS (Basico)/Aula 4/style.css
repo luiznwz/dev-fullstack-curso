@@ -1,0 +1,30 @@
+body {
+    background: rgb(214, 206, 206);
+}
+
+.foto {
+    width: 200px;
+    border: 5px solid #FFFF; /* shorthand */
+    border-radius: 50% 50% 50% 50%; 
+}
+
+    /*
+    border-radius: 50% superior esquero - 50% superior direito - 50% inferior direito - 50% inferior esquerdo, sentido horario.
+
+    border-width: 5px
+    border-style: solid 
+    border-color: black
+    */
+    
+p {
+    color: rgb(34, 34, 34);
+}
+
+/*
+ p {
+    border-top-style: dotted;
+    border-left-style: solid;
+    border-bottom-style: dotted;
+    border-right-style: solid;
+}
+*/
